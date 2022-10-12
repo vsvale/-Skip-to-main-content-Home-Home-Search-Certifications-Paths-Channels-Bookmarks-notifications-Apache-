@@ -1,1 +1,1 @@
-# -Skip-to-main-content-Home-Home-Search-Certifications-Paths-Channels-Bookmarks-notifications-Apache-
+# Apache Kafka and KSQLDb in Action: Let's Build a Streaming Data Pipeline
